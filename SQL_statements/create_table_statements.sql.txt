@@ -1,0 +1,80 @@
+CREATE TABLE location (
+	id INT not null,
+	city VARCHAR(50),
+	province VARCHAR(50),
+	country VARCHAR(20),
+	Canada VARCHAR(1),
+	PRIMARY KEY(id)
+);
+
+CREATE TABLE date (
+	id int not null,
+	date timestamp without time zone,
+	month INT,
+	year INT,
+	weekend VARCHAR(1),
+	season_canada VARCHAR(10),
+	season_international VARCHAR(10),
+	PRIMARY KEY (id)
+);
+
+CREATE TABLE disaster (
+	id int not null,
+	type VARCHAR(20),
+	subgroup VARCHAR(20),
+	group_ VARCHAR(20), --because we can't call a column "group"
+	category VARCHAR(20),
+	magnitude INT,
+	utility_people_affected INT,
+	PRIMARY KEY (id)
+);
+CREATE TABLE summary (
+	id int not null,
+	summary TEXT,
+	keyword1 VARCHAR(25),
+	keyword2 VARCHAR(25),
+	keyword3 VARCHAR(25),
+	PRIMARY KEY (id)
+);
+CREATE TABLE costs (
+	id int not null,
+	estimated_total_cost INT,
+	normalized_total_cost INT,
+	federal_payments INT,
+	provincial_dfaa_payments INT,
+	provincial_dpmt_payments INT,
+	municipal_costs INT,
+	ogd_costs INT,
+	insurance_payments INT,
+	ngo_payments INT,
+	PRIMARY KEY (id)
+);
+/* --TO COMPLETE LATER
+CREATE TABLE PopulationStats(
+	Population
+	City
+	month
+	PRIMARY KEY (id)
+);
+CREATE TABLE WeatherInfo(
+	id INT NOT NULL,
+	);
+*/
+CREATE TABLE fact_table (
+	start_date_id INT NOT NULL,
+	end_date_id INT NOT NULL,
+	location_id INT NOT NULL,
+	disaster_id INT NOT NULL,
+	summary_id INT NOT NULL,
+	cost_id INT NOT NULL,
+	fatalities INT,
+	injured INT,
+	evacuated INT,
+	FOREIGN KEY(start_date_id) REFERENCES date(id),
+	FOREIGN KEY(end_date_id) REFERENCES date(id),
+	FOREIGN KEY(location_id) REFERENCES location(id),
+	FOREIGN KEY(disaster_id) REFERENCES disaster(id),
+	FOREIGN KEY(summary_id) REFERENCES summary(id),
+	FOREIGN KEY(cost_id) REFERENCES costs(id)
+	
+);
