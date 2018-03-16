@@ -86,9 +86,9 @@ with open('input_data/costs.csv') as f2:
 with open('input_data/disaster.csv') as f3:
     disaster = np.array([[str(e) for e in row] for row in csv.reader(f3, delimiter=';', quoting=csv.QUOTE_NONE)])
 with open('input_data/summary.csv') as f4:
-    summary = np.array([[str(e) for e in row] for row in csv.reader(f4, delimiter=';', quoting=csv.QUOTE_NONE)])
+    summary = np.array([[remove_accents(str(e)) for e in row] for row in csv.reader(f4, delimiter=';', quoting=csv.QUOTE_NONE)])
 with open('input_data/dataset.csv') as f5:
-    dataset = np.array([[str(e) for e in row] for row in csv.reader(f5, delimiter=';', quoting=csv.QUOTE_NONE)])
+    dataset = np.array([[remove_accents(str(e)) for e in row] for row in csv.reader(f5, delimiter=';', quoting=csv.QUOTE_NONE)])
 
 n=len(dataset)
 fact_table=np.empty([n,9])
