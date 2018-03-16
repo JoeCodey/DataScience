@@ -1,0 +1,152 @@
+ID;EVENT CATEGORY;EVENT GROUP;EVENT SUBGROUP;EVENT TYPE;UTILITY - PEOPLE AFFECTED;MAGNITUDE
+1;Incident;Technology;Fire;Non-Residential;0;0
+2;Incident;Technology;Explosion;Non-Residential;0;0
+3;Incident;Technology;Infrastructure failure;Manufacturing / Industry;0;0
+4;Disaster;Natural;Meteorological - Hydrological;Flood;0;0
+5;Disaster;Natural;Geological;Landslide;0;0
+6;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;0;0
+7;Disaster;Natural;Meteorological - Hydrological;Winter Storm;0;0
+8;Incident;Technology;Transportation accident;Marine;0;0
+9;Incident;Technology;Infrastructure failure;Transportation;0;0
+10;Incident;Technology;Fire;Residential;0;0
+11;Disaster;Natural;Meteorological - Hydrological;Drought;0;0
+12;Incident;Technology;Transportation accident;Rail;0;0
+13;Disaster;Natural;Meteorological - Hydrological;Avalanche;0;0
+14;Disaster;Natural;Meteorological - Hydrological;Wildfire;0;0
+15;Disaster;Natural;Meteorological - Hydrological;Tornado;0;0
+16;Disaster;Natural;Meteorological - Hydrological;Heat Event;0;0
+17;Disaster;Natural;Biological;Epidemic;0;0
+18;Incident;Technology;Hazardous Chemicals;Fire;0;0
+19;Disaster;Natural;Meteorological - Hydrological;Winter Storm;18270270;0
+20;Incident;Technology;Hazardous Chemicals;Derailment Release;0;0
+21;Incident;Technology;Hazardous Chemicals;Marine Release;0;0
+22;Incident;Technology;Hazardous Chemicals;Leak / Spill Release;0;0
+23;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;0;0
+24;Disaster;Natural;Meteorological - Hydrological;Heat Event;128169014;0
+25;Disaster;Natural;Geological;Earthquake;0;6
+26;Disaster;Natural;Meteorological - Hydrological;Cold Event;0;0
+27;Incident;Technology;Transportation accident;Air;0;0
+28;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;0;0
+29;Incident;Technology;Hazardous Chemicals;Vehicle Release;0;0
+30;Incident;Conflict;Arson;Non-Residential;0;0
+31;Disaster;Natural;Meteorological - Hydrological;Tornado;1560000;0
+32;Incident;Conflict;Civil Incident;Disturbance / Demonstrations;0;0
+33;Disaster;Natural;Meteorological - Hydrological;Flood;412941;0
+34;Disaster;Natural;Meteorological - Hydrological;Flood;4150761;0
+35;Incident;Conflict;Terrorist;Bomb Attacks;0;0
+36;Disaster;Natural;Meteorological - Hydrological;Winter Storm;3189873;0
+37;Disaster;Natural;Meteorological - Hydrological;Tornado;2895455;0
+38;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;240000;0
+39;Incident;Technology;Transportation accident;Vehicle;0;0
+40;Disaster;Natural;Meteorological - Hydrological;Winter Storm;4828750;0
+41;Incident;Technology;Infrastructure failure;Communications;0;0
+42;Disaster;Natural;Biological;Infestation;0;0
+43;Disaster;Natural;Meteorological - Hydrological;Storm Surge;0;0
+44;Incident;Conflict;Hijacking;Air;0;0
+45;Incident;Technology;Infrastructure failure;Water;0;0
+46;Incident;Technology;Infrastructure failure;Energy;0;0
+47;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;300000;0
+48;Disaster;Natural;Geological;Tsunami;0;0
+49;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;150000;0
+50;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;570000;0
+51;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;46500;0
+52;Disaster;Natural;Meteorological - Hydrological;Wildfire;3000;0
+53;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;200000;0
+54;Disaster;Natural;Meteorological - Hydrological;Winter Storm;60000;0
+55;Disaster;Natural;Meteorological - Hydrological;Winter Storm;6000;0
+56;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;299793;0
+57;Disaster;Natural;Meteorological - Hydrological;Tornado;45000;0
+58;Disaster;Natural;Meteorological - Hydrological;Tornado;15000;0
+59;Incident;Technology;Explosion;Residential;0;0
+60;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;15000;0
+61;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;75000;0
+62;Disaster;Natural;Biological;Pandemic;0;0
+63;Disaster;Natural;Geological;Volcano;0;0
+64;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;300000;0
+65;Disaster;Natural;Meteorological - Hydrological;Tornado;207000;0
+66;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;10000;0
+67;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;70000;0
+68;Disaster;Natural;Geological;Earthquake;900;5
+69;Disaster;Natural;Meteorological - Hydrological;Tornado;12000;0
+70;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;12000;0
+71;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;40000;0
+72;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;24000;0
+73;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;190000;0
+74;Disaster;Natural;Meteorological - Hydrological;Winter Storm;50000;0
+75;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;120000;0
+76;Disaster;Natural;Meteorological - Hydrological;Flood;240000;0
+77;Disaster;Natural;Meteorological - Hydrological;Tornado;13500;0
+78;Disaster;Natural;Geological;Earthquake;0;7
+79;Disaster;Natural;Meteorological - Hydrological;Winter Storm;249000;0
+80;Disaster;Natural;Meteorological - Hydrological;Wildfire;2000;0
+81;Disaster;Natural;Geological;Tsunami;0;7
+82;Incident;Conflict;Civil Incident;Rioting;0;0
+83;Incident;Conflict;Arson;Residential;0;0
+84;Disaster;Natural;Geological;Earthquake;0;8
+85;Incident;Technology;Fire;Vehicle;0;0
+86;Disaster;Natural;Geological;Tsunami;0;9
+87;Disaster;Natural;Meteorological - Hydrological;Flood;236364;0
+88;Disaster;Natural;Meteorological - Hydrological;Flood;584656;0
+89;Disaster;Natural;Geological;Tsunami;0;8
+90;Disaster;Natural;Meteorological - Hydrological;Winter Storm;1027473;0
+91;Incident;Conflict;Terrorist;Kidnapping / Murder;0;0
+92;Incident;Technology;Space Event;Space Debris;0;0
+93;Disaster;Natural;Meteorological - Hydrological;Flood;119127;0
+94;Disaster;Natural;Meteorological - Hydrological;Flood;115994;0
+95;Disaster;Natural;Meteorological - Hydrological;Winter Storm;7615063;0
+96;Incident;Conflict;Terrorist;Shootings;0;0
+97;Disaster;Natural;Meteorological - Hydrological;Tornado;3684211;0
+98;Disaster;Natural;Meteorological - Hydrological;Wildfire;;0
+99;Disaster;Natural;Meteorological - Hydrological;Heat Event;;0
+100;Disaster;Natural;Meteorological - Hydrological;Flood;;0
+101;Incident;Conflict;Civil Incident;Disturbance / Demonstrations;;0
+102;Incident;Conflict;Civil Incident;Rioting;;0
+103;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;600000;0
+104;Disaster;Natural;Meteorological - Hydrological;Winter Storm;189000;0
+105;Disaster;Natural;Meteorological - Hydrological;Winter Storm;127283;0
+106;Disaster;Natural;Meteorological - Hydrological;Wildfire;1896;0
+107;Disaster;Natural;Meteorological - Hydrological;Flood;700;0
+108;Incident;Technology;Transportation accident;Air;;0
+109;Disaster;Natural;Meteorological - Hydrological;Tornado;8000;0
+110;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;1169000;0
+111;Disaster;Natural;Meteorological - Hydrological;Tornado;;2
+112;Disaster;Natural;Meteorological - Hydrological;Geomagnetic Storm;6925128;0
+113;Disaster;Natural;Geological;Earthquake;;9
+114;Disaster;Natural;Meteorological - Hydrological;Flood;1500;0
+115;Disaster;Natural;Biological;Epidemic;;0
+116;Disaster;Natural;Meteorological - Hydrological;Flood;300000;0
+117;Incident;Technology;Transportation accident;Rail;;0
+118;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;;0
+119;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;;0
+120;Incident;Technology;Infrastructure failure;Manufacturing / Industry;300;0
+121;Incident;Conflict;Terrorist;Shootings;;0
+122;Incident;Technology;Fire;Residential;;0
+123;Incident;Conflict;Terrorist;Kidnapping / Murder;;0
+124;Disaster;Natural;Meteorological - Hydrological;Winter Storm;153000;0
+125;Disaster;Natural;Meteorological - Hydrological;Winter Storm;2490000;0
+126;Disaster;Natural;Meteorological - Hydrological;Hurricane / Typhoon / Tropical Storm;939000;0
+127;Disaster;Natural;Meteorological - Hydrological;Winter Storm;317000;0
+128;Disaster;Natural;Meteorological - Hydrological;Tornado;150000;0
+129;Disaster;Natural;Geological;Earthquake;860000;7,8
+130;Disaster;Natural;Meteorological - Hydrological;Winter Storm;12000;0
+131;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;25000;0
+132;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;5000;0
+133;Disaster;Natural;Meteorological - Hydrological;Wildfire;300;0
+134;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;1500000;0
+135;Incident;Technology;Hazardous Chemicals;Leak / Spill Release;;0
+136;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;9000;0
+137;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;105000;0
+138;Disaster;Natural;Meteorological - Hydrological;Flood;20000;0
+139;Disaster;Natural;Meteorological - Hydrological;Winter Storm;69000;0
+140;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;10038;0
+141;Disaster;Natural;Meteorological - Hydrological;Winter Storm;750000;0
+142;Disaster;Natural;Meteorological - Hydrological;Winter Storm;300000;0
+143;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;117000;0
+144;Disaster;Natural;Geological;Landslide;;0
+145;Disaster;Natural;Meteorological - Hydrological;Flood;390600;0
+146;Disaster;Natural;Meteorological - Hydrological;Storms and Severe Thunderstorms;33000;0
+147;Disaster;Natural;Meteorological - Hydrological;Tornado;54000;0
+148;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;225000;0
+149;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;300000;0
+150;Disaster;Natural;Meteorological - Hydrological;Storm - Unspecified / Other;480000;0
+151;Disaster;Natural;Meteorological - Hydrological;Flood;6000;0
