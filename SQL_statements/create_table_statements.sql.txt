@@ -1,6 +1,6 @@
 CREATE TABLE location (
 	id INT not null,
-	city VARCHAR(50),
+	city VARCHAR(500),
 	province VARCHAR(50),
 	country VARCHAR(20),
 	Canada VARCHAR(1),
