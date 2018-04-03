@@ -38,15 +38,15 @@ CREATE TABLE summary (
 );
 CREATE TABLE costs (
 	id int not null,
-	estimated_total_cost INT,
-	normalized_total_cost INT,
-	federal_payments INT,
-	provincial_dfaa_payments INT,
-	provincial_dpmt_payments INT,
-	municipal_costs INT,
-	ogd_costs INT,
-	insurance_payments INT,
-	ngo_payments INT,
+	estimated_total_cost DOUBLE PRECISION,
+	normalized_total_cost DOUBLE PRECISION,
+	federal_payments DOUBLE PRECISION,
+	provincial_dfaa_payments DOUBLE PRECISION,
+	provincial_dpmt_payments DOUBLE PRECISION,
+	municipal_costs DOUBLE PRECISION,
+	ogd_costs DOUBLE PRECISION,
+	insurance_payments DOUBLE PRECISION,
+	ngo_payments DOUBLE PRECISION,
 	PRIMARY KEY (id)
 );
 /* --TO COMPLETE LATER

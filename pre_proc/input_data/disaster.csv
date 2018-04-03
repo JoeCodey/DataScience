@@ -1,4 +1,4 @@
-ID;EVENT CATEGORY;EVENT GROUP;EVENT SUBGROUP;EVENT TYPE;UTILITY - PEOPLE AFFECTED;MAGNITUDE
+id;EVENT CATEGORY;EVENT GROUP;EVENT SUBGROUP;EVENT TYPE;UTILITY - PEOPLE AFFECTED;MAGNITUDE
 1;Incident;Technology;Fire;Non-Residential;0;0
 2;Incident;Technology;Explosion;Non-Residential;0;0
 3;Incident;Technology;Infrastructure failure;Manufacturing / Industry;0;0
